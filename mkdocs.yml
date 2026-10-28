@@ -1,0 +1,4 @@
+site_name: GA4 & CAPI Server-Side Tagging Guide
+site_url: https://datametrik.com
+nav:
+  - Home: index.md
